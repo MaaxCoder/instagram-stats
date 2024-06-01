@@ -3,4 +3,4 @@ Utilise streamlit pour générer des statistiques d'abonnées d'un compte Instag
 
 #
 
-<img width="1000" src="https://raw.githubusercontent.com/MaaxCoder/instagram-stats-streamlit/main/img/interface.png"></a>
+<img width="1000" src="https://raw.githubusercontent.com/MaaxCoder/instagram-stats/master/img/interface.png"></a>
