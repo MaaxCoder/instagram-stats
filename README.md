@@ -2,5 +2,7 @@
 Utilise streamlit pour générer des statistiques d'abonnées d'un compte Instagram
 
 #
+## Lien de démo :
+https://instagram-stats.streamlit.app/
 
-<img width="1000" src="https://raw.githubusercontent.com/MaaxCoder/instagram-stats/master/img/interface.png"></a>
+![Demo video](https://raw.githubusercontent.com/MaaxCoder/instagram-stats/master/img/video.gif)
