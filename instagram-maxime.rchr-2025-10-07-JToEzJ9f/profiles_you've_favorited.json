@@ -1,0 +1,30 @@
+{
+  "relationships_feed_favorites": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/maelys.comes",
+          "value": "maelys.comes",
+          "timestamp": 1753101556
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/clem_vgrx",
+          "value": "clem_vgrx",
+          "timestamp": 1748209707
+        }
+      ]
+    }
+  ]
+}
