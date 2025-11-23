@@ -37,9 +37,10 @@ def lire_fichier_json(nom_fichier):
 def to_dataframe(object):
     noms = []
     times = []
-    for f in object:
+    for f in object:   
         nom = f["string_list_data"][0]["value"]
         ts = f["string_list_data"][0]["timestamp"]
+        print(f["string_list_data"][0])
         noms.append(nom)
         times.append(ts)
     df = pd.DataFrame({
