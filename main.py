@@ -53,7 +53,7 @@ def to_dataframe_1(object):
     noms = []
     times = []
     for f in object["relationships_following"]:
-        nom = f["string_list_data"][0]["value"]
+        nom = f["title"]
         ts = f["string_list_data"][0]["timestamp"]
         noms.append(nom)
         times.append(ts)
